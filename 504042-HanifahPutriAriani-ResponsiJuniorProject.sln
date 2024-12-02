@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "504042-HanifahPutriAriani-ResponsiJuniorProject", "504042-HanifahPutriAriani-ResponsiJuniorProject\504042-HanifahPutriAriani-ResponsiJuniorProject.csproj", "{F3EFB6A6-C51B-4EA5-BBB8-D50B76896223}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CD4E7876-2237-4A6C-B275-040A20071399}"
+	ProjectSection(SolutionItems) = preProject
+		Class1.cs = Class1.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3EFB6A6-C51B-4EA5-BBB8-D50B76896223}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3EFB6A6-C51B-4EA5-BBB8-D50B76896223}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3EFB6A6-C51B-4EA5-BBB8-D50B76896223}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3EFB6A6-C51B-4EA5-BBB8-D50B76896223}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84D1F6CA-A5DF-4B67-9214-85A25066ACA6}
+	EndGlobalSection
+EndGlobal
